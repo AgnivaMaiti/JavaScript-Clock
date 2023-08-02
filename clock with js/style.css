@@ -1,0 +1,15 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: grey;
+}
+.container{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: indigo;
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+}
